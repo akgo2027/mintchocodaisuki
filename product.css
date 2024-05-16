@@ -1,0 +1,76 @@
+.img-one {
+  background-color: #013220;
+  overflow: hidden;
+}
+
+ul li{
+  position: relative;
+  margin: 15px 20px;
+  list-style: none;
+  display: inline-block;
+  padding: 5px;
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+ul li a{
+  text-decoration: none;
+  cursor: pointer;
+  color: rgb(255,255,255)
+}
+
+ul li a:hover{
+  color: #C1E1C1;
+  background-color: transparent;
+}
+
+li {
+  float: right;
+}
+
+.product1 {
+  width: 50%; 
+  float: left;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.product2 {
+  width: 30%;
+  float: left;
+  padding-top: 50px;
+}
+
+.product3 {
+  width: 50%;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+.img-four {
+  background-color: #5C4033;
+  position: relative;
+}
+
+h3 {
+  font-family: arial;
+  text-align: left;
+  color: #ECFADC;
+  font-size: 40px;
+  padding-top: 50px;
+  margin: 0;
+}
+
+h4 {
+  font-family: arial;
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  padding-top: 50;
+  margin: 0;
+  line-height: 150%
+}
